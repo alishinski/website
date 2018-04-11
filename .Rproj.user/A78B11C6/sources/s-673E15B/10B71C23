@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523470387908.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2886789871",
+    "id" : "10B71C23",
+    "lastKnownWriteTime" : 1523470423,
+    "last_content_update" : 1523470423458,
+    "path" : "~/test-website/content/post/2018-04-11-placeholder-post-with-r-markdown.Rmd",
+    "project_path" : "content/post/2018-04-11-placeholder-post-with-r-markdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "11,52",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
