@@ -30,12 +30,21 @@
     </item>
     
     <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Aboutcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() {hljs.initHighlighting();}, 0);}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.table th:not([align]) {text-align: left;}.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>My name is Alex Lishinsk, this is my website, and there&amp;rsquo;s not much here yet, but I&amp;rsquo;m working on it.</description>
+      <description>My name is Alex Lishinski, I earned my Ph.D in Educational Psychology and Educational Technology from Michigan State University. I am an education researcher who focuses on Computer Science Education. My particular focus has been on motivational and affective factors that influence student outcomes in undergraduate introductory programming courses. I am also very interested in statistics and research methods generally, and statistical programming in R.</description>
     </item>
     
   </channel>
